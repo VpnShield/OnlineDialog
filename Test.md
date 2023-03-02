@@ -1,0 +1,22 @@
+{
+"Title": "Vpn Shield | Free For All ⚡️",
+"Description": "سلام دوست خوبم...\n\n- اگه میخوای از فیلترشکن‌های متصل بیشتری استفاده کنی،حتما مارو داخل تلگرام دنبال کن 👇🏻",
+"Link": "www.google.com",
+"Color": "#78cc7e",
+"ColorWave": "#78cc7e",
+"ColorCancell": "#78cc7e",
+"ColorBackGround": "#FFFFFFFF",
+"ColorBackGroundTop": "#efefef",
+"ColorMessage": "#323232",
+"ColorTitle": "#78cc7e",
+"Cancellable": "true",
+"Image": "update.png",
+"MessageID": "4",
+"ShowTime": "8",
+"MessageGravity": "5",
+"fontTitle": "title.ttf",
+"fontMessage": "title.ttf",
+"fontButton": "title.ttf",
+"Button": "عضویت",
+"Show": "on"
+}
