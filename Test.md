@@ -9,7 +9,7 @@
 "ColorBackGroundTop": "#efefef",
 "ColorMessage": "#323232",
 "ColorTitle": "#78cc7e",
-"Cancellable": "False",
+"Cancellable": "True",
 "Image": "update.png",
 "MessageID": "4",
 "ShowTime": "8",
