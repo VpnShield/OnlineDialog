@@ -1,6 +1,6 @@
 {
 "Title": "Vpn Shield | Free ⚡️",
-"Description": "این فیلترشکن توسط کانال Vpn Shield مود شده است!/n
+"Description": "این فیلترشکن توسط کانال Vpn Shield مود شده است!\n
 برای دریافت فیلترشکن‌های مود شده و متصل بیشتر،به کانال تلگرام ما بپیوندید 🤍",
 "Link": "tg://resolve?domin=AppReverser",
 "ColorWave": "#2196F3",
@@ -17,7 +17,7 @@
 "Cancellable": "off",
 "MessageID": "2",
 "ShowTime": "9999",
-"Button": "عضویت",
+"Button": "",
 "ButtonCancell": "بعدا",
 "Show": "on"
 }
