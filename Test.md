@@ -1,22 +1,24 @@
 {
-"Title": "Vpn Shield | Free For All ⚡️",
-"Description": "سلام دوست خوبم...\n\n- این برنامه توسط تیم ما مود شده ، اگه میخوای از فیلترشکن‌های متصل و رایگان بیشتری استفاده کنی و یا با روش‌های جدید دور زدن فیلترینگ آشنا بشی پیشنهاد میکنم حتما مارو داخل تلگرام دنبال کن ❤️\n\n* راستی اینو یادم رفت بگم فعالیت ما کاملا رایگان ، دیگه برای فیلترشکن پول نده ، عضو شو گل من 👇🏻",
-"Link": "",
-"Color": "#78cc7e",
-"ColorWave": "#78cc7e",
-"ColorCancell": "#78cc7e",
-"ColorBackGround": "#FFFFFFFF",
-"ColorBackGroundTop": "#efefef",
-"ColorMessage": "#323232",
-"ColorTitle": "#78cc7e",
-"Cancellable": "True",
-"Image": "update.png",
-"MessageID": "4",
-"ShowTime": "8",
-"MessageGravity": "5",
-"fontTitle": "title.ttf",
-"fontMessage": "title.ttf",
-"fontButton": "title.ttf",
-"Button": "",
+"Title": "Vpn Shield | Free ⚡️",
+"Description": "این فیلترشکن توسط کانال Vpn Shield مود شده است!
+
+برای دریافت فیلترشکن‌های مود شده و متصل بیشتر،به کانال تلگرام ما بپیوندید 🤍",
+"Link": "tg://resolve?domin=AppReverser",
+"ColorWave": "#2196F3",
+"ColorWaveTwo": "#42A5F5",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#ff111111",
+"ColorBtnCancell": "#555555",
+"ColorBtnCancellBg": "#999999",
+"Cancellable": "true",
+"MessageID": "2",
+"ShowTime": "9999",
+"Button": "عضویت",
+"ButtonCancell": "بعدا",
 "Show": "on"
 }
