@@ -1,23 +1,22 @@
 {
-"Title": "Vpn Shield | Free ⚡️",
-"Description": "این فیلترشکن توسط کانال Vpn Shield مود شده است!\n\n
-برای دریافت فیلترشکن‌های مود شده و متصل بیشتر،به کانال تلگرام ما بپیوندید 🤍",
-"Link": "tg://resolve?domin=AppReverser",
-"ColorWave": "#2196F3",
-"ColorWaveTwo": "#42A5F5",
+"Title": "@Modify_BackUp",
+"Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
+"Link": "https://t.me/Modify_BackUp/",
+"ColorWave": "#14acdf",
+"ColorWaveTwo": "#53ddef",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
 "ColorMessage": "#ff323232",
-"ColorTitle": "#E53935",
+"ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
-"ColorBtnBg": "#ff111111",
-"ColorBtnCancell": "#555555",
-"ColorBtnCancellBg": "#999999",
-"Cancellable": "on",
-"MessageID": "2",
-"ShowTime": "9999",
-"Button": "",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "99",
+"ShowTime": "10",
+"Button": "عضویت",
 "ButtonCancell": "بعدا",
 "Show": "on"
 }
