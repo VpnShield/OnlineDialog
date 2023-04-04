@@ -16,7 +16,7 @@
 "Cancellable": "true",
 "MessageID": "99",
 "ShowTime": "10",
-"Button": "عضویت",
-"ButtonCancell": "بعدا",
+"Button": " عضویت ",
+"ButtonCancell": "  بعدا  ",
 "Show": "on"
 }
