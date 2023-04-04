@@ -18,5 +18,6 @@
 "ShowTime": "100",
 "Button": " عضویت ",
 "ButtonCancell": "  بعدا  ",
+"Hide": "true",
 "Show": "on"
 }
