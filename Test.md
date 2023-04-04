@@ -17,7 +17,7 @@
 "MessageID": "99",
 "ShowTime": "100",
 "Button": " عضویت ",
-"ButtonCancell": "  بعدا  ",
+"ButtonCancell": "",
 "Hide": "true",
 "Show": "on"
 }
