@@ -13,11 +13,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
+"Cancellable": "true",
 "MessageID": "99",
 "ShowTime": "100",
 "Button": " عضویت ",
-"ButtonCancell": "",
-"Hide": "true",
+"ButtonCancell": "  بعدا  ",
+"Closure": "false",
 "Show": "on"
 }
